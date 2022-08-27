@@ -1,2 +1,2 @@
-Desarrollador Web - Estudiante de ORT. Apasianado por las tecnologías
+Programador Web - Estudiante de ORT. Apasianado por las tecnologías
 
