@@ -1,7 +1,11 @@
-<h1>Ronald Lima - Desarrollador Web</h1>
-<p>Bienvenidos a mi perfil.</p>
-<p>Soy estudiante de la Universidad ORT, estudiando Analista Programador.</p>
-<p>Con conocimientos en programación, bases de datos y con capacidad de comunicación tanto en inglés como en portugués.</p>
-<h2>Habilidades Técnicas</h2>
-<hr>
-<img src="/react.svg" alt="Logo React JS" style="max-width: 100%">
+# **Ronald Lima - Desarrollador Web**
+
+## :memo: **Acerca de mi**
+
+Bienvenidos a mi perfil.
+Soy estudiante de la Universidad ORT, estudiando Analista Programador.
+Con conocimientos en programación, bases de datos y con capacidad de comunicación tanto en inglés como en portugués.
+
+## **Habilidades Técnicas**
+
+- ![Logo React](react.svg) React JS
