@@ -4,4 +4,4 @@
 <p>Con conocimientos en programación, bases de datos y con capacidad de comunicación tanto en inglés como en portugués.</p>
 <h2>Habilidades Técnicas</h2>
 <hr>
-<img src="/logo-og.png" alt="Logo React JS" style="max-width: 100%;">
+<img src="/logo-og.png" alt="Logo React JS" style="max-width: 25px">
