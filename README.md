@@ -1,4 +1,4 @@
-# **Ronald Lima - Desarrollador Web**
+# **Ronald Lima - Programador Web**
 
 ## :memo: **Acerca de mi**
 
