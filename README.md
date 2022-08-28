@@ -9,8 +9,3 @@ Con conocimientos en programación, bases de datos y con capacidad de comunicaci
 ## **Habilidades Técnicas**
 
 - ![Logo React](react.svg) React JS
-- ![Logo React](react.svg) React JS
-- ![Logo React](react.svg) React JS
-- ![Logo React](react.svg) React JS
-- ![Logo React](react.svg) React JS
-- ![Logo React](react.svg) React JS
