@@ -11,5 +11,8 @@ Con conocimientos en programación, bases de datos, POO.
 <p align=center>
     <a href="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=radical" title="Go to Source">
         <img height=245 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=radical">
-    </a>    
+    </a> 
+    <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dlanor91a&repo=convoychat" />
+</a>
 </p>
