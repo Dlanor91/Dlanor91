@@ -9,7 +9,7 @@ Con conocimientos en programación, bases de datos, POO.
 * Inglés - Intermedio
 * Portugués - Intermedio
 <p align=center>
-    <a href="" title="Go to Source">
+    <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" title="Go to Source">
         <img height=245 width=380 align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
     </a>    
 </p>
