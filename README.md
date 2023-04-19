@@ -12,6 +12,7 @@ Con conocimientos en programación, bases de datos, POO.
     <a href="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=radical" title="Go to Source">
         <img height=245 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=radical">
     </a>   
-   <a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact)]">
-       <img src="" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" ></a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-                stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact">
+    </a>
 </p>
