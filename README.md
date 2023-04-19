@@ -9,10 +9,10 @@ Con conocimientos en programación, bases de datos, POO.
 * Inglés - Intermedio
 * Portugués - Intermedio
 <p align=center>
-    <a href="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs" title="Go to Source">
-        <img height=245 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs">
+    <a href="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=dark&count_private=true&include_all_commits=true" title="Go to Source">
+        <img height=245 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=dark&count_private=true&include_all_commits=true">
     </a>   
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact">
-       <img height=245 width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact&theme=dark">
+       <img height=245 width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact&theme=dark" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact&theme=dark">
     </a>
 </p>
