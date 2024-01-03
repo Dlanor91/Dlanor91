@@ -3,6 +3,7 @@
 ## :memo: **Acerca de mi**
 
 Bienvenidos a mi perfil.
+
 Analista Programador. Con conocimientos en programación, bases de datos, POO.
 ## :capital_abcd: Idiomas
 * Inglés - Intermedio
