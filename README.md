@@ -23,7 +23,10 @@ Actualmente me encuentro en constante aprendizaje, explorando nuevas tecnología
 ## 📈 **Estadísticas de GitHub**
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact&theme=dark">
-    <img height="245" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact&theme=dark" alt="Top Langs">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dlanor91&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlanor91&layout=compact&theme=dark" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dlanor91&theme=dark&hide_border=false" />
 </p>
