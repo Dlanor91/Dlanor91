@@ -11,9 +11,9 @@ Actualmente me encuentro en constante aprendizaje, explorando nuevas tecnología
 ## 🛠️ **Tecnologías y herramientas**
 
 - Lenguajes: `C#`, `Java`, `JavaScript`, `TypeScript`, `SQL`
-- Frameworks: `ASP.NET Core`, `Spring Boot`, `Angular`, `Flask`
+- Frameworks: `ASP.NET Core`, `Spring Boot`, `Angular`
 - Bases de datos: `SQL Server`, `MySQL`, `Cosmos DB`
-- Otras herramientas: `Git`, `Azure DevOps`, `Docker`, `Postman`
+- Otras herramientas: `Git`, `Azure DevOps`, `Postman`
 
 ## 🌐 **Idiomas**
 
